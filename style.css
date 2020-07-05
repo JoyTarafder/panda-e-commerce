@@ -1,0 +1,77 @@
+.container{
+    margin-bottom: 100px;
+}
+.orng-bg{
+    background-color: #fceae8;
+    border-radius: 12px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color:#FF136F;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#FF5898 0%,#FF136F 100%);
+    color:#fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.buy-now-button:hover{
+    color: black;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+    
+}
+.cat1{
+    background: linear-gradient(60deg,#ff00cc,#333399);
+}
+.cat2{
+    background: linear-gradient(60deg,#d38312,#a83279);
+}
+.cat3{
+    background: linear-gradient(60deg,#24c6dc,#514a9d);
+}
+.categories h1{
+    color:white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 350px;
+}
+#subscribe h6{
+    color: grey;
+}
+footer{
+    text-align: center;
+}
+.link-add{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#4776e6,
+    #8e54e9);
+    padding: 20px 30px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    box-shadow: 20px 0px 40px gray;
+    border-radius: 10px;
+}
+.link-add:hover{
+    color: black;
+    font-size: 20px;
+}
